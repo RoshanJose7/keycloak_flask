@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.example.flutter_keycloak",
+      "sha256_cert_fingerprints": [
+        "52:A8:82:13:45:D9:2C:03:24:61:CD:22:53:49:C1:57:8D:0A:31:76:1B:AA:36:5E:60:7A:88:6C:2B:8C:E3:EB"
+      ]
+    }
+  }
+]
