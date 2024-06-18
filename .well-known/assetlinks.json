@@ -3,7 +3,7 @@
     "relation": ["delegate_permission/common.handle_all_urls"],
     "target": {
       "namespace": "android_app",
-      "package_name": "com.onrender.keycloak-flask",
+      "package_name": "com.onrender.keycloak",
       "sha256_cert_fingerprints": [
         "8B:9F:07:3D:A0:D7:43:73:89:D1:9B:96:8F:E6:41:10:36:97:69:06:1F:C6:17:92:67:BB:FB:31:3E:D4:98:96"
       ]
